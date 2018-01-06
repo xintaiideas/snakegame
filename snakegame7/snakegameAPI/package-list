@@ -1,0 +1,6 @@
+edu.snake.Global
+edu.snake.control
+edu.snake.entity
+edu.snake.listener
+edu.snake.test
+edu.snake.view
